@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdelrahman-2513.abdelrahman-2513" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrahman+Hassan!;" />
 </h1>
@@ -37,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,antdesign,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,postgresql,javascript,typescript,express,firebase,mongodb,c,java,mysql,nest" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,postgresql,javascript,typescript,express,firebase,mongodb,c,c++,java,mysql,nest" /><br>
 </div>
 
 <br/>
@@ -69,8 +67,5 @@
 
 <br/>
 
-<div align="center">
-<!-- <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
-</div>
 
 <br/>
